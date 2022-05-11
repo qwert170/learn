@@ -1,2 +1,0 @@
-print("jjj")
-print("kkkk")
