@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "socket.h": "c",
+        "sqlite3.h": "c",
+        "functional": "c",
+        "hwy_network_chat.h": "c",
+        "my_chat.h": "c",
+        "*.rh": "c",
+        "my_pack.h": "c",
+        "array": "c",
+        "*.tcc": "c",
+        "string": "c",
+        "vector": "c",
+        "string_view": "c",
+        "istream": "c",
+        "limits": "c",
+        "ostream": "c",
+        "sstream": "c",
+        "streambuf": "c",
+        "my_recv.h": "c",
+        "unistd.h": "c",
+        "fstream": "cpp",
+        "cstddef": "cpp",
+        "iterator": "cpp",
+        "optional": "cpp",
+        "numeric": "cpp",
+        "cmath": "cpp"
+    }
+}
